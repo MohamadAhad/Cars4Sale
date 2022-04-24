@@ -34,11 +34,11 @@ h2{
   padding: 100px;
 }
 .car-images{
+  transition : transform .5s;
   width: 100%;
 }
 .car-images:hover{
-  width: 105%;
-  transition: 0.5s;
+  transform:scale(1.5);
 }
 .middlecontainer-2{
   background-color:#FFFFFF;
