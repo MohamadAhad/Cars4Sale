@@ -1,0 +1,82 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: 'Merriweather', serif;
+  font-weight: bold;
+}
+h1{
+  margin-top: 100px;
+  text-align:center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.topcontainer{
+  background-color: #455d7a;
+  padding: 25px;
+}
+.message-btn{
+  width: 3.5%;
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+}
+.Cars4Sale-logo{
+  width: 15%;
+}
+.middlecontainer-1{
+  background-color: #F7F7F7;
+  padding: 100px;
+}
+.car-images{
+  width: 100%;
+}
+.car-images:hover{
+  width: 105%;
+  transition: 0.5s;
+}
+.middlecontainer-2{
+  background-color: white;
+  padding: 100px;
+}
+.bottomcontainer{
+  background-color: #F7F7F7;
+  padding: 100px;
+}
+.footer{
+  text-align: center;
+  background-color: #455d7a;
+  padding: 60px 0px 20px;
+  margin-bottom: 0;
+}
+.copyright-line{
+  color: #EAF6F6;
+}
+a{
+    color: #313552;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+    margin: auto 10px;
+}
+a:hover{
+  color: #FFB72B;
+  transition: 0.5s;
+}
+.navigationbuttons{
+color: #F7F7F7;
+position: relative;
+left: 850px;
+}
+.contact-form{
+  text-align: center;
+  line-height: 25px;
+  margin: 50px 50px;
+}
+.underdev-gif{
+margin-left: 450px;
+}
